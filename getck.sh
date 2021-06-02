@@ -1,4 +1,4 @@
-wget -c https://raw.githubusercontent.com/Anylines/getck/main/getck.tar.gz
+wget -c https://raw.githubusercontent.com/Anylines/getck/main/getck.gz
 tar -zxvf getck.tar.gz
 rm -f GetJDCookies.tar.gz
 cd GetJDCookies
